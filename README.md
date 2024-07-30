@@ -1,1 +1,1 @@
-# C-Progamming
+The Library Management System project aims to automate the process of managing a library, including tasks such as adding and removing books, tracking book availability, managing user accounts, and handling book borrowing and returning. This system facilitates efficient management of library resources and enhances user experience by providing quick access to information about available books and their status.
